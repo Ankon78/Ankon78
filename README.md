@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.springboard.com/blog/wp-content/uploads/2022/09/programmng-language.jpg" align="center" style="width: 100%" />
+<img src="https://www.springboard.com/blog/wp-content/uploads/2022/09/programmng-language.jpg" align="center" style="width: 100% height="50%" />
 </div>  
   
 
