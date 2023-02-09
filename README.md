@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.springboard.com/blog/wp-content/uploads/2022/09/programmng-language.jpg" align="center" style="width: 100% height="50%" />
+<img src="https://www.springboard.com/blog/wp-content/uploads/2022/09/programmng-language.jpg" align="center" style="width: 100%" />
 </div>  
   
 
@@ -95,9 +95,9 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Ankon78&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=Ankon78&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankon78&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankon78&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
